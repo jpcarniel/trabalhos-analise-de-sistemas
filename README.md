@@ -1,2 +1,2 @@
 # trabalhos-analise-de-sistemas
-Trabalhos da disciplina de lógica de programação
+Simple programs I developed for my Algorithms class, on degree's the first month.
